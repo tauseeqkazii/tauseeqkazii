@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tauseeqkazii
-- 👀 I’m interested in ...ethical hacking 
-- 🌱 I’m currently learning ...cyber security
 - 💞️ I’m looking to collaborate on ...nahh just wanted to explore 
 - 📫 How to reach me ...insta tuaseeqkazii
 
