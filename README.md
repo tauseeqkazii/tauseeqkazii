@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tauseeqkazii
-- 💞️ I’m looking to collaborate on ...nahh just wanted to explore 
-- 📫 How to reach me ...insta tuaseeqkazii
+
 
 <!---
 tauseeqkazii/tauseeqkazii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
